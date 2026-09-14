@@ -29,8 +29,7 @@ No dependencies or build step required. Just open the file directly in your brow
 ```
 myblog/
 ├── index.html
-├── assets/
-│   └── mountain.jpg
+│── mountain.jpg
 └── README.md
 ```
 
